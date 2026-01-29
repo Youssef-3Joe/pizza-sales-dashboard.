@@ -1,6 +1,6 @@
 🍕 Pizza Sales Intelligence Dashboard
 
-🔗 Live Interactive App
+🔗 Live Interactive App https://pizza-sales-intel.streamlit.app/
 
 📊 Statistical Deep-Dive
 I performed an initial audit of the transactional data (50,000+ rows) to understand the underlying distribution and stability of the business.
